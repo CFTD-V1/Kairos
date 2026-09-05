@@ -60,3 +60,6 @@ docker-compose.override.yml
 
 .verificar
 .wsq.agent/
+
+# ===== Asistentes de IA =====
+.agent/
