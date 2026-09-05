@@ -59,4 +59,4 @@ docker-compose.override.yml
 .claude/
 
 .verificar
-.wsq
+.wsq.agent/
